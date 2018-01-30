@@ -2,7 +2,9 @@
 title: "git practice markdown"
 author: "Marcus"
 date: "January 29, 2018"
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
